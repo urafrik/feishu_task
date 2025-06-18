@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+lark-oapi==1.4.18
+pydantic
+pydantic-settings
+ruamel.yaml
+httpx
+python-dotenv
+flask
+apscheduler
